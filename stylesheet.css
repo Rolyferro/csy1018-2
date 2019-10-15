@@ -1,0 +1,9 @@
+body{
+    align-content: center;
+}
+img{
+    border-style: none;
+    border-radius: 100%;
+    filter: grayscale(0);
+
+}
